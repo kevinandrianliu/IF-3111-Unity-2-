@@ -6,8 +6,8 @@
 
 
 ## Author
-Kevin Andrian Liwinata
-K1
-13516118
+Kevin Andrian Liwinata  
+K1  
+13516118  
 Teknik Informatika
 
